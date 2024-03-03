@@ -1,0 +1,29 @@
+{
+  "name": "websocket-framework",
+  "version": "1.0.1",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "websocket-framework",
+      "version": "1.0.1",
+      "license": "MIT",
+      "dependencies": {
+        "data-visualization2": "^1.0.1"
+      }
+    },
+    "node_modules/data-visualization2": {
+      "version": "1.0.1",
+      "resolved": "https://registry.npmjs.org/data-visualization2/-/data-visualization2-1.0.1.tgz",
+      "integrity": "sha512-SpUeZ3D6prZdiJx1aL/s5PO9rh+1IE1bHL+uBxO5j1lhWZ42N5NUoMuVuVip47ZbjMUMG//pXqyy4A7BnZGinw==",
+      "dependencies": {
+        "websocket-framework": "^1.0.0"
+      }
+    },
+    "node_modules/websocket-framework": {
+      "version": "1.0.0",
+      "resolved": "https://registry.npmjs.org/websocket-framework/-/websocket-framework-1.0.0.tgz",
+      "integrity": "sha512-rfnNDe292xPANyDoTO9MxSxYY7A3SzsBCvYiV2HbFXVFJ0Yg8mLyXbcuj+ogb6g0O+FEBiVbaMGzhoS+oisvZg=="
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "websocket-framework",
-  "version": "1.0.0", 
+  "version": "1.0.1",
   "description": "",
   "main": "./src/index.js",
   "scripts": {
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ttrentsou/websocket-framework"
   },
   "keywords": [
-    "", 
+    "",
     "",
     ""
   ],
-  "author": "",
-  "license": "MIT"
+  "author": "ttrentsou",
+  "license": "MIT",
+  "dependencies": {
+    "data-visualization2": "^1.0.1"
+  }
 }
